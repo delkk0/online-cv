@@ -1,18 +1,30 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
+  name: Python
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: C for microcontrollers
+  level: 90%
+- skill:
+  name: Tcl/Tk
+  level: 90%
+- skill:
+  name: Cadence Orcad & PCB
+  level: 90%
+- skill:
+  name: LTSpice
+  level: 90%
+- skill:
+  name: Bash
+  level: 80%
+- skill:
+  name: TeX/LaTeX
+  level: 90%
+- skill:
+  name: Git & Github
+  level: 80%
+- skill:
+  name: Digital Electronics
+  level: 95%
+- skill:
+  name: Power Electronics
+  level: 85%
